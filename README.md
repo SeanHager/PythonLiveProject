@@ -8,13 +8,13 @@ I was able to gain real-world experience during the Live Project at The Tech Aca
 ![Base_MVC_App](https://user-images.githubusercontent.com/79550661/126885089-c419bcec-971b-4c44-9529-e3a433490f50.jpg)
 
 ## Project Story Table of Contents
-1. Create a new app for the project, named appropriately for what you are tracking, and get it to display a home page with basic content.
-2. Create a model for the collection item you will be tracking and add the ability to create a new item.
-3. Display information from the database in a page.
-4. Create a details page that will show the details of any single item from within the database.
+* [Creating My Application](#creating-my-application)
+* [Creating My Model](#creating-my-model)
+* [Display Database Information](#display-database-information)
+* [Create Details Page](#create-details-page)
 
 
-## 1. Creating My Application:
+### Creating My Application
 1) Created a new app using manage.py startapp.
 2) Created a base and home templates in a new template folder.
 
@@ -33,11 +33,11 @@ I was able to gain real-world experience during the Live Project at The Tech Aca
 5) Linked the app's home page to the project's home page by adding an image link on the main projects home page.
 6) Added styling to application base HTML and home.
 
-## Final Story Result:
+### Final Story Result:
 ![finalprojectpicture](https://user-images.githubusercontent.com/79550661/126885284-e83d1fda-51a1-4961-bf1e-af569049a9a4.jpg)
 
 
-## 2. Creating My Model:
+## Creating My Model
 1) Created a model and added a database migration, as well as created categories to track for database objects. Also created an objects manager for accessing the database.
 2) Created a model form that included any inputs the user needs to make.
 
@@ -58,12 +58,12 @@ I was able to gain real-world experience during the Live Project at The Tech Aca
 ![image](https://user-images.githubusercontent.com/79550661/126885655-b2bfa142-68d3-4d4d-bb02-2db66b379dbc.png)
 
 
-## Final Story Result:
+### Final Story Result:
 ![createuser](https://user-images.githubusercontent.com/79550661/126885298-75f9f45c-5af6-4470-abbf-1b8b26efcb04.jpg)
 ![addproduct](https://user-images.githubusercontent.com/79550661/126885299-8b7f42b2-b322-40a2-8fe5-045d74ca233a.jpg)
 
 
-## 3. Display db(database) information:
+## Display Database Information
 1) Created a new HTML page that linked from the home page.
 
 ![image](https://user-images.githubusercontent.com/79550661/126885559-8aa2c963-fa15-432e-a0ba-992d6baf06f3.png)
@@ -74,11 +74,11 @@ I was able to gain real-world experience during the Live Project at The Tech Aca
 
 3) Display a list of items from the database, with some or all of the fields for that item displayed with labels/headers. 
 
-## Final Story Result:
+### Final Story Result:
 ![databasedisplay](https://user-images.githubusercontent.com/79550661/126885304-7cae9d7e-6c0b-4b8a-add7-5362ab29fd57.jpg)
 
 
-## 4. Created a Details Page:
+## Create Details Page
 1) Added a details template to the template folder and registered the URL pattern.
 
 ![image](https://user-images.githubusercontent.com/79550661/126885605-87e6437f-90c3-4b7d-bad0-a9562bbb50ea.png)
@@ -91,7 +91,7 @@ I was able to gain real-world experience during the Live Project at The Tech Aca
 3) Added in a link for each item on the display all items page that will direct to the details page for that item.
 4) Display all the details of the item on the details page.
 
-## Final Story Result:
+### Final Story Result:
 ![itemlist](https://user-images.githubusercontent.com/79550661/126885310-a1365126-a13c-44e6-a159-4ceddd4aa790.jpg)
 ![itemlistdisplay](https://user-images.githubusercontent.com/79550661/126885311-4c5f772f-e219-4fb0-b2e0-5767df561786.jpg)
 
@@ -105,3 +105,5 @@ We used Agile and Scrum as our method of development. I participated in a sprint
 3. It's OK to ask for help, it shows that you care. But do your research, you might surprise yourself and figure a lot out on your own.
 4. Code is time-consuming but extremely rewarding. The more you code and practice the more efficient you'll become. 
 5. This career was 100% meant for me. 
+
+*Jump to: [Page Top](#python-live-project)*
