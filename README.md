@@ -41,10 +41,12 @@ I was able to gain real-world experience during the Live Project at The Tech Aca
 
 ## Creating My Model
 1) Created a model and added a database migration, as well as created categories to track for database objects. Also created an objects manager for accessing the database.
-2) Created a model form that included any inputs the user needs to make.
 
 ![image](https://user-images.githubusercontent.com/79550661/126885455-977dc6db-218f-4568-b269-d0f8f641f236.png)
 
+2) Created a model form that included any inputs the user needs to make.
+
+![image](https://user-images.githubusercontent.com/79550661/126885655-b2bfa142-68d3-4d4d-bb02-2db66b379dbc.png)
 
 3) Added a template to the app's folder for creating a new item.
 
@@ -54,10 +56,6 @@ I was able to gain real-world experience during the Live Project at The Tech Aca
 4) Added a views function that renders the create page and utilizes the model form to save the collection item to the database.
 
 ![image](https://user-images.githubusercontent.com/79550661/126885481-6b2e28bf-ed1d-4734-8894-caebc6b7c39c.png)
-
-5) Create a forms file to store user input information when entered into forms.
-
-![image](https://user-images.githubusercontent.com/79550661/126885655-b2bfa142-68d3-4d4d-bb02-2db66b379dbc.png)
 
 
 ### Final Story Result:
