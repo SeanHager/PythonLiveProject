@@ -13,6 +13,7 @@ I was able to gain real-world experience during the Live Project at The Tech Aca
 * [Display Database Information](#display-database-information)
 * [Create Details Page](#create-details-page)
 
+*Jump to: [Page Top](#python-live-project)*
 
 ### Creating My Application
 1) Created a new app using manage.py startapp.
@@ -36,6 +37,7 @@ I was able to gain real-world experience during the Live Project at The Tech Aca
 ### Final Story Result:
 ![finalprojectpicture](https://user-images.githubusercontent.com/79550661/126885284-e83d1fda-51a1-4961-bf1e-af569049a9a4.jpg)
 
+*Jump to: [Page Top](#python-live-project)*
 
 ## Creating My Model
 1) Created a model and added a database migration, as well as created categories to track for database objects. Also created an objects manager for accessing the database.
@@ -62,6 +64,7 @@ I was able to gain real-world experience during the Live Project at The Tech Aca
 ![createuser](https://user-images.githubusercontent.com/79550661/126885298-75f9f45c-5af6-4470-abbf-1b8b26efcb04.jpg)
 ![addproduct](https://user-images.githubusercontent.com/79550661/126885299-8b7f42b2-b322-40a2-8fe5-045d74ca233a.jpg)
 
+*Jump to: [Page Top](#python-live-project)*
 
 ## Display Database Information
 1) Created a new HTML page that linked from the home page.
@@ -77,6 +80,7 @@ I was able to gain real-world experience during the Live Project at The Tech Aca
 ### Final Story Result:
 ![databasedisplay](https://user-images.githubusercontent.com/79550661/126885304-7cae9d7e-6c0b-4b8a-add7-5362ab29fd57.jpg)
 
+*Jump to: [Page Top](#python-live-project)*
 
 ## Create Details Page
 1) Added a details template to the template folder and registered the URL pattern.
@@ -95,7 +99,7 @@ I was able to gain real-world experience during the Live Project at The Tech Aca
 ![itemlist](https://user-images.githubusercontent.com/79550661/126885310-a1365126-a13c-44e6-a159-4ceddd4aa790.jpg)
 ![itemlistdisplay](https://user-images.githubusercontent.com/79550661/126885311-4c5f772f-e219-4fb0-b2e0-5767df561786.jpg)
 
-
+*Jump to: [Page Top](#python-live-project)*
 
 ## Agile Methodologies & Ending Notes:
 We used Agile and Scrum as our method of development. I participated in a sprint-planning meeting, daily stand-ups, and a code-retrospective to discuss what worked well and what didn't. During the daily meetings, I had to mention what I worked on the day prior, what we were going to work on the day of, and what roadblocks we were facing. It was a great way to gain soft skills. The meetings held us accountable and even though for most of the Live Project I worked by myself, I still was able to complete the tasks needed for completion. It was also an opportunity to discuss things we were struggling with, which the instructors were great about reaching out and walking me through any roadblocks. My major take-aways from this project were:
